@@ -1,5 +1,5 @@
 # Julia-Optimization-Code
-This is code that I wrote for assignments in my Linear and Nonlinear Optimization course at NYU. Most of the code was written by the professor, and students were tasked with modifying the code for homework assignments. 
+This is code that I wrote for assignments in my Linear and Nonlinear Optimization course at NYU (MATH-UA 253). Most of the code was written by the professor, and students were tasked with modifying the code for homework assignments. 
 
 This document will summarize the task that the code was written for. Furthermore, I will also state which areas are my work, and which areas are the professor's work.
 
