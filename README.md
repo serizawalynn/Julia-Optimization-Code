@@ -1,5 +1,5 @@
 # Julia-Optimization-Code
-This is code that I wrote for assignements in my Linear and Nonlinear Optimization course at NYU. Most of the code was written by the professor, and students were tasked with modifying the code for homework assignments. 
+This is code that I wrote for assignments in my Linear and Nonlinear Optimization course at NYU. Most of the code was written by the professor, and students were tasked with modifying the code for homework assignments. 
 
 This document will summarize the task that the code was written for. Furthermore, I will also state which areas are my work, and which areas are the professor's work.
 
@@ -7,7 +7,7 @@ hw25a.jl
 My work starts at line 58. The task was to try various values for alpha, which is the learning rate of the steepest descent algorithm.
 
 hw25b.jl
-I wrote the entirety of the script. I calculated the eigenvalues of the matrix to explain why the algoritm diverges for certain alphas. 
+I wrote the entirety of the script. I calculated the eigenvalues of the matrix to explain why the algorithm diverges for certain alphas. 
 
 hw25c.jl
 I altered the script at lines 55,56,57,69, and 70. Here, I used the optimal step length that can be directly calculated from quadratic functions and evaluate its performance. 
